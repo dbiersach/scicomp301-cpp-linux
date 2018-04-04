@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1491011220 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-torus/DrawTorus.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1490488977 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-torus/stdafx.h
+	"targetver.h"
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<memory>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<tuple>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1490488978 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-torus/SimpleScreen.h
+	"stdafx.h"
+
+1490488978 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-torus/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
