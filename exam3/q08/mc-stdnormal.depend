@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1525674216 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-stdnormal/mc-stdnormal.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"Niederreiter2.h"
+
+1525674188 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-stdnormal/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<complex>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1525674464 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-stdnormal/SimpleScreen.h
+	"stdafx.h"
+
+1525674172 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-stdnormal/Niederreiter2.h
+
+1525674208 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-stdnormal/Niederreiter2.cpp
+	"stdafx.h"
+	"Niederreiter2.h"
+
+1525674200 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-stdnormal/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

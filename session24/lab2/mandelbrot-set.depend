@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1502415420 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mandelbrot-set/mandelbrot-set.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1485713037 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mandelbrot-set/stdafx.h
+	"targetver.h"
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<memory>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<tuple>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1502246500 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mandelbrot-set/SimpleScreen.h
+	"stdafx.h"
+
+1502249462 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mandelbrot-set/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

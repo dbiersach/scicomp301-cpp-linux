@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1492961642 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/Session 19 - Matrices, Iterated Function Systems/Lab 1 - Draw Sierpinski Triangle/DrawSierpinskiTriangle.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"IteratedFunctionSystem.h"
+
+1492961642 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/Session 19 - Matrices, Iterated Function Systems/Lab 1 - Draw Sierpinski Triangle/stdafx.h
+	"targetver.h"
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<memory>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<tuple>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1492963301 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/Session 19 - Matrices, Iterated Function Systems/Lab 1 - Draw Sierpinski Triangle/SimpleScreen.h
+	"stdafx.h"
+
+1492961642 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/Session 19 - Matrices, Iterated Function Systems/Lab 1 - Draw Sierpinski Triangle/IteratedFunctionSystem.h
+	"stdafx.h"
+
+1492961642 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/Session 19 - Matrices, Iterated Function Systems/Lab 1 - Draw Sierpinski Triangle/IteratedFunctionSystem.cpp
+	"stdafx.h"
+	"IteratedFunctionSystem.h"
+
+1492963252 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/Session 19 - Matrices, Iterated Function Systems/Lab 1 - Draw Sierpinski Triangle/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1492961642 source:/home/dbiersach/Desktop/DrawTriangle/DrawSierpinskiTriangle.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"IteratedFunctionSystem.h"
+
+1492961642 /home/dbiersach/Desktop/DrawTriangle/stdafx.h
+	"targetver.h"
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<memory>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<tuple>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1492963301 /home/dbiersach/Desktop/DrawTriangle/SimpleScreen.h
+	"stdafx.h"
+
+1492961642 /home/dbiersach/Desktop/DrawTriangle/IteratedFunctionSystem.h
+	"stdafx.h"
+
+1492961642 source:/home/dbiersach/Desktop/DrawTriangle/IteratedFunctionSystem.cpp
+	"stdafx.h"
+	"IteratedFunctionSystem.h"
+
+1492963252 source:/home/dbiersach/Desktop/DrawTriangle/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1492961642 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab1-triangle/DrawSierpinskiTriangle.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"IteratedFunctionSystem.h"
+
+1492978214 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab1-triangle/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<memory>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<tuple>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1492963301 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab1-triangle/SimpleScreen.h
+	"stdafx.h"
+
+1492961642 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab1-triangle/IteratedFunctionSystem.h
+	"stdafx.h"
+
+1492961642 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab1-triangle/IteratedFunctionSystem.cpp
+	"stdafx.h"
+	"IteratedFunctionSystem.h"
+
+1492963252 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab1-triangle/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1493068094 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-triangle/DrawSierpinskiTriangle.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"IteratedFunctionSystem.h"
+
+1493068094 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-triangle/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<memory>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<tuple>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1493068094 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-triangle/SimpleScreen.h
+	"stdafx.h"
+
+1493068094 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-triangle/IteratedFunctionSystem.h
+	"stdafx.h"
+
+1493068094 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-triangle/IteratedFunctionSystem.cpp
+	"stdafx.h"
+	"IteratedFunctionSystem.h"
+
+1493068094 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-triangle/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

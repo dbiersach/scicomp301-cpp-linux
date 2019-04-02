@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1525673718 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/idw2/idw2.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1525673679 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/idw2/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<complex>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1525673718 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/idw2/SimpleScreen.h
+	"stdafx.h"
+
+1525673718 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/idw2/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1525672498 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/kinematics-regression/kinematics-regression.cpp
+	"stdafx.h"
+
+1525672317 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/kinematics-regression/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<complex>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+

@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1497738385 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/maze-search-adj/AdjMatrix.cpp
+	"stdafx.h"
+	"AdjMatrix.h"
+
+1497582834 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/maze-search-adj/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<locale>
+	<memory>
+	<map>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1497737717 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/maze-search-adj/AdjMatrix.h
+
+1497843287 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/maze-search-adj/maze-search-adj.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"AdjMatrix.h"
+
+1497229996 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/maze-search-adj/SimpleScreen.h
+	"stdafx.h"
+
+1490482916 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/maze-search-adj/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

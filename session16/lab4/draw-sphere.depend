@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1490482917 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-sphere/DrawSphere.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1493068094 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-sphere/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<locale>
+	<memory>
+	<map>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1490482916 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-sphere/SimpleScreen.h
+	"stdafx.h"
+
+1490482916 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-sphere/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

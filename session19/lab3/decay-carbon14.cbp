@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="decay-carbon14" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/decay-carbon14" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/decay-carbon14" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add option="-m64" />
+			<Add option="-fexceptions" />
+			<Add directory="/usr/include/root" />
+		</Compiler>
+		<Linker>
+			<Add option="-m64" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libASImage.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libASImageGui.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libCint.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libCintex.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libcomplexDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libCore.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libdequeDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGdml.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGed.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGeom.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGeomBuilder.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGeomPainter.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGpad.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGraf.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGraf3d.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGui.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGuiBld.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGuiHtml.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGX11.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libGX11TTF.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libHist.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libHistPainter.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/liblistDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libmap2Dict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libmapDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libMathCore.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libMatrix.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libMinuit.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libmultimap2Dict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libmultimapDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libmultisetDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libNet.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libNew.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libProof.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libReflex.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libReflexDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libRGL.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libRint.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libRIO.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libsetDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libThread.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libTree.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libTreePlayer.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libvalarrayDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libvectorDict.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/root5.34/libXMLIO.so" />
+		</Linker>
+		<Unit filename="NuclearDecay.cpp" />
+		<Unit filename="stdafx.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

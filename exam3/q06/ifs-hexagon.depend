@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1525673477 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-hexagon/ifs-hexagon.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"IteratedFunctionSystem.h"
+
+1525672996 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-hexagon/stdafx.h
+	"targetver.h"
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<complex>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1525673076 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-hexagon/SimpleScreen.h
+	"stdafx.h"
+
+1525673059 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-hexagon/IteratedFunctionSystem.h
+	"stdafx.h"
+
+1525673041 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-hexagon/IteratedFunctionSystem.cpp
+	"stdafx.h"
+	"IteratedFunctionSystem.h"
+
+1525673091 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/ifs-hexagon/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

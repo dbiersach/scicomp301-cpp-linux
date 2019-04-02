@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1493068094 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/birthday-paradox/BirthdayParadox.cpp
+	"stdafx.h"
+
+1493068094 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/birthday-paradox/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<locale>
+	<memory>
+	<map>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+

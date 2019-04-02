@@ -1,9 +1,9 @@
 [Desktop Entry]
-Version=1.0
-Type=Link
-Name=Session 22 - Search Algorithms, Adjacency Matrix
 Comment=Session 22 - Search Algorithms, Adjacency Matrix
-Icon=firefox
-URL=https://goo.gl/6zBGfa
 GenericName=Session 22 - Search Algorithms, Adjacency Matrix
-
+Icon=firefox
+Name[en_US]=Session 22 - Search Algorithms, Adjacency Matrix
+Name=Session 22 - Search Algorithms, Adjacency Matrix
+Type=Link
+URL=https://brookhavenlab-my.sharepoint.com/:p:/g/personal/dbiersach_bnl_gov/EeYkbPZGPtxFqd7480fNtqMB0H5Vd3T-0neIHi_cqNWtkQ?e=Eck0Au
+Version=1.0

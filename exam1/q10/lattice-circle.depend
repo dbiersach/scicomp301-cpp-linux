@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1532310996 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/lattice-circle/lattice-circle.cpp
+	"stdafx.h"
+
+1532310885 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/lattice-circle/stdafx.h
+	"targetver.h"
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<complex>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+

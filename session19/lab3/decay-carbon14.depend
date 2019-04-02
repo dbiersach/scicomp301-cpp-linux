@@ -1,0 +1,433 @@
+# depslib dependency file v1.0
+1487986074 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/decay-carbon14/NuclearDecay.cpp
+	"stdafx.h"
+
+1494989176 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/decay-carbon14/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<locale>
+	<memory>
+	<map>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<TApplication.h>
+	<TCanvas.h>
+	<TColor.h>
+	<TDiamond.h>
+	<TF1.h>
+	<TGraph.h>
+	<TH1D.h>
+	<TH1F.h>
+	<TLegend.h>
+	<TMath.h>
+	<TMultiGraph.h>
+	<TNamed.h>
+	<TRandom3.h>
+	<TString.h>
+	<TStyle.h>
+
+1459864490 /usr/include/root/TApplication.h
+	"TObject.h"
+	"TQObject.h"
+	"TApplicationImp.h"
+
+1459864490 /usr/include/root/TObject.h
+	"Rtypes.h"
+	"TStorage.h"
+	"TVersionCheck.h"
+	"Riosfwd.h"
+	<stdarg.h>
+	"TBuffer.h"
+
+1459864490 /usr/include/root/Rtypes.h
+	"RConfig.h"
+	"DllImport.h"
+	"Rtypeinfo.h"
+	<stdio.h>
+	<string.h>
+	<snprintf.h>
+	<strlcpy.h>
+	<atomic>
+	"TGenericClassInfo.h"
+
+1459864490 /usr/include/root/RConfig.h
+	"RVersion.h"
+	<standards.h>
+	<stdlib.h>
+	<features.h>
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+
+1459864490 /usr/include/root/RVersion.h
+
+1459864490 /usr/include/root/DllImport.h
+
+1459864490 /usr/include/root/Rtypeinfo.h
+	"RConfig.h"
+	<typeinfo>
+	<typeinfo>
+
+1459864490 /usr/include/root/snprintf.h
+	"RConfig.h"
+	<stdio.h>
+	<stdarg.h>
+
+1459864490 /usr/include/root/strlcpy.h
+	"RConfig.h"
+	<unistd.h>
+	<sys/types.h>
+
+1459864490 /usr/include/root/TGenericClassInfo.h
+	<vector>
+	"TSchemaHelper.h"
+
+1459864490 /usr/include/root/TSchemaHelper.h
+	"Rtypes.h"
+	<string>
+
+1459864490 /usr/include/root/TStorage.h
+	"Rtypes.h"
+
+1459864490 /usr/include/root/TVersionCheck.h
+	"RVersion.h"
+
+1459864490 /usr/include/root/Riosfwd.h
+	"RConfig.h"
+	<iostream>
+	<iosfwd>
+
+1459864490 /usr/include/root/TBuffer.h
+	"TObject.h"
+	<typeinfo>
+
+1459864490 /usr/include/root/TQObject.h
+	"TString.h"
+	"TQClass.h"
+
+1459864490 /usr/include/root/TString.h
+	<string.h>
+	<stdio.h>
+	"Riosfwd.h"
+	"TMathBase.h"
+	<stdarg.h>
+	<string>
+
+1459864490 /usr/include/root/TMathBase.h
+	"Rtypes.h"
+	<cstdlib>
+	<cmath>
+
+1459864490 /usr/include/root/TQClass.h
+	"TQObject.h"
+	"TClass.h"
+
+1459864490 /usr/include/root/TClass.h
+	"TDictionary.h"
+	"TString.h"
+	"TObjArray.h"
+	"TObjString.h"
+	<map>
+	<string>
+	<atomic>
+	"ThreadLocalStorage.h"
+
+1459864490 /usr/include/root/TDictionary.h
+	"TNamed.h"
+	"Property.h"
+	"ESTLType.h"
+
+1459864490 /usr/include/root/TNamed.h
+	"TObject.h"
+	"TString.h"
+
+1459864490 /usr/include/root/Property.h
+
+1459864490 /usr/include/root/ESTLType.h
+
+1459864490 /usr/include/root/TObjArray.h
+	"TSeqCollection.h"
+	<iterator>
+
+1459864490 /usr/include/root/TSeqCollection.h
+	"TCollection.h"
+
+1459864490 /usr/include/root/TCollection.h
+	"TObject.h"
+	"TIterator.h"
+	"TString.h"
+
+1459864490 /usr/include/root/TIterator.h
+	"Rtypes.h"
+
+1459864490 /usr/include/root/TObjString.h
+	"TObject.h"
+	"TString.h"
+
+1459864490 /usr/include/root/ThreadLocalStorage.h
+	"RConfig.h"
+	"RConfigure.h"
+	<assert.h>
+	<pthread.h>
+	<assert.h>
+	<pthread.h>
+
+1459864489 /usr/include/root/RConfigure.h
+
+1459864490 /usr/include/root/TApplicationImp.h
+	"TString.h"
+
+1459864491 /usr/include/root/TCanvas.h
+	"TPad.h"
+	"TAttCanvas.h"
+	"TVirtualX.h"
+	"TString.h"
+	"TCanvasImp.h"
+
+1459864491 /usr/include/root/TPad.h
+	"TVirtualPad.h"
+	"TAttBBox2D.h"
+	"TPoint.h"
+	"GuiTypes.h"
+
+1459864490 /usr/include/root/TVirtualPad.h
+	"TAttPad.h"
+	"TVirtualX.h"
+	"TString.h"
+	"Buttons.h"
+	"TQObject.h"
+
+1459864490 /usr/include/root/TAttPad.h
+	"Rtypes.h"
+
+1459864490 /usr/include/root/TVirtualX.h
+	<utility>
+	<vector>
+	"TNamed.h"
+	"TAttLine.h"
+	"TAttFill.h"
+	"TAttText.h"
+	"TAttMarker.h"
+	"GuiTypes.h"
+
+1459864490 /usr/include/root/TAttLine.h
+	"Rtypes.h"
+	"Riosfwd.h"
+
+1459864490 /usr/include/root/TAttFill.h
+	"Rtypes.h"
+	"Riosfwd.h"
+
+1459864490 /usr/include/root/TAttText.h
+	"Rtypes.h"
+	"Riosfwd.h"
+
+1459864490 /usr/include/root/TAttMarker.h
+	"Rtypes.h"
+	"Riosfwd.h"
+
+1459864490 /usr/include/root/GuiTypes.h
+	"Rtypes.h"
+
+1459864490 /usr/include/root/Buttons.h
+
+1459864490 /usr/include/root/TAttBBox2D.h
+	"GuiTypes.h"
+	"Rtypes.h"
+
+1459864490 /usr/include/root/TPoint.h
+	"Rtypes.h"
+
+1459864491 /usr/include/root/TAttCanvas.h
+	"Rtypes.h"
+
+1459864490 /usr/include/root/TCanvasImp.h
+	"Rtypes.h"
+
+1459864490 /usr/include/root/TColor.h
+	"TNamed.h"
+	"TArrayI.h"
+
+1459864490 /usr/include/root/TArrayI.h
+	"TArray.h"
+
+1459864490 /usr/include/root/TArray.h
+	"Rtypes.h"
+	<string.h>
+
+1459864491 /usr/include/root/TDiamond.h
+	"TPaveText.h"
+	"TAttLine.h"
+	"TAttFill.h"
+
+1459864491 /usr/include/root/TPaveText.h
+	"TPave.h"
+	"TText.h"
+	"TLine.h"
+
+1459864491 /usr/include/root/TPave.h
+	"TBox.h"
+	"TString.h"
+
+1459864491 /usr/include/root/TBox.h
+	"TObject.h"
+	"TAttLine.h"
+	"TAttFill.h"
+	"TAttBBox2D.h"
+	"TPoint.h"
+	"GuiTypes.h"
+
+1459864491 /usr/include/root/TText.h
+	"TAttText.h"
+	"TNamed.h"
+	"TAttBBox2D.h"
+	"TPoint.h"
+	"GuiTypes.h"
+
+1459864491 /usr/include/root/TLine.h
+	"TObject.h"
+	"TAttLine.h"
+	"TAttBBox2D.h"
+	"TPoint.h"
+	"GuiTypes.h"
+
+1459864491 /usr/include/root/TF1.h
+	"TFormula.h"
+	"TAttLine.h"
+	"TAttFill.h"
+	"TAttMarker.h"
+	"Math/ParamFunctor.h"
+
+1459864491 /usr/include/root/TFormula.h
+	"TNamed.h"
+	"TBits.h"
+	"TObjArray.h"
+
+1459864490 /usr/include/root/TBits.h
+	"TObject.h"
+	"Riosfwd.h"
+	<string.h>
+
+1459864490 /usr/include/root/Math/ParamFunctor.h
+	<vector>
+	<iostream>
+
+1459864491 /usr/include/root/TGraph.h
+	"TNamed.h"
+	"TAttLine.h"
+	"TAttFill.h"
+	"TAttMarker.h"
+	"TVectorFfwd.h"
+	"TVectorDfwd.h"
+	"TFitResultPtr.h"
+
+1459864491 /usr/include/root/TVectorFfwd.h
+	"Rtypes.h"
+
+1459864491 /usr/include/root/TVectorDfwd.h
+	"Rtypes.h"
+
+1459864491 /usr/include/root/TFitResultPtr.h
+	"Rtypes.h"
+
+1459864491 /usr/include/root/TH1D.h
+	"TH1.h"
+
+1459864491 /usr/include/root/TH1.h
+	"TAxis.h"
+	"TAttLine.h"
+	"TAttFill.h"
+	"TAttMarker.h"
+	"TArrayC.h"
+	"TArrayS.h"
+	"TArrayI.h"
+	"TArrayF.h"
+	"TArrayD.h"
+	"Foption.h"
+	"TVectorFfwd.h"
+	"TVectorDfwd.h"
+	<float.h>
+	"TFitResultPtr.h"
+
+1459864491 /usr/include/root/TAxis.h
+	"TNamed.h"
+	"TAttAxis.h"
+	"TArrayD.h"
+
+1459864490 /usr/include/root/TAttAxis.h
+	"Rtypes.h"
+	"Riosfwd.h"
+
+1459864490 /usr/include/root/TArrayD.h
+	"TArray.h"
+
+1459864490 /usr/include/root/TArrayC.h
+	"TArray.h"
+
+1459864490 /usr/include/root/TArrayS.h
+	"TArray.h"
+
+1459864490 /usr/include/root/TArrayF.h
+	"TArray.h"
+
+1459864491 /usr/include/root/Foption.h
+
+1459864491 /usr/include/root/TH1F.h
+	"TH1.h"
+
+1459864491 /usr/include/root/TLegend.h
+	"TPave.h"
+	"TAttText.h"
+
+1459864490 /usr/include/root/TMath.h
+	"Rtypes.h"
+	"TMathBase.h"
+	"TError.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<float.h>
+	<math.h>
+
+1459864490 /usr/include/root/TError.h
+	"Rtypes.h"
+	<stdarg.h>
+
+1459864491 /usr/include/root/TMultiGraph.h
+	"TNamed.h"
+	"TF1.h"
+	"TFitResultPtr.h"
+
+1459864490 /usr/include/root/TRandom3.h
+	"TRandom.h"
+
+1459864490 /usr/include/root/TRandom.h
+	"TNamed.h"
+
+1459864490 /usr/include/root/TStyle.h
+	"TNamed.h"
+	"TAttAxis.h"
+	"TAttLine.h"
+	"TAttFill.h"
+	"TAttText.h"
+	"TAttMarker.h"
+	"TArrayI.h"
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1499541567 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/anagrams-compound/anagrams-compound.cpp
+	"stdafx.h"
+
+1499528709 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/anagrams-compound/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<complex>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<boost/algorithm/string.hpp>
+	<boost/range/algorithm_ext/erase.hpp>
+	<boost/timer.hpp>
+

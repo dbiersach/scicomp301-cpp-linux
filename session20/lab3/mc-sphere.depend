@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1495215527 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-sphere/3DSphereVolumeQRNG.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"Niederreiter2.h"
+
+1493068094 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-sphere/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<locale>
+	<memory>
+	<map>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1495215165 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-sphere/SimpleScreen.h
+	"stdafx.h"
+
+1486525576 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-sphere/Niederreiter2.h
+
+1495214947 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-sphere/Niederreiter2.cpp
+	"stdafx.h"
+	"Niederreiter2.h"
+
+1490482916 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/mc-sphere/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

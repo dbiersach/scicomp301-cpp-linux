@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="draw-rings" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/draw-rings" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/draw-rings" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add option="-m64" />
+			<Add option="-fexceptions" />
+			<Add directory="/usr/include/allegro5" />
+		</Compiler>
+		<Linker>
+			<Add option="-m64" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_acodec.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_audio.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_color.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_dialog.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_font.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_image.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_main.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_memfile.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_physfs.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_primitives.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_ttf.so" />
+			<Add library="/usr/lib/x86_64-linux-gnu/liballegro_video.so" />
+		</Linker>
+		<Unit filename="SimpleScreen.cpp" />
+		<Unit filename="SimpleScreen.h" />
+		<Unit filename="draw-rings.cpp" />
+		<Unit filename="stdafx.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

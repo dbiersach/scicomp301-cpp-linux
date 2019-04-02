@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1497321728 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-monolith/draw-monolith.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
+1493068094 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-monolith/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<locale>
+	<memory>
+	<map>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1497229996 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-monolith/SimpleScreen.h
+	"stdafx.h"
+
+1490482916 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/draw-monolith/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

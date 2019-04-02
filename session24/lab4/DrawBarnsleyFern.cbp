@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DrawBarnsleyFern" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DrawBarnsleyFern" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++14" />
+					<Add option="-m64" />
+					<Add option="-g" />
+					<Add directory="/usr/include/allegro5" />
+				</Compiler>
+				<Linker>
+					<Add option="-m64" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_video.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_primitives.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_ttf.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_physfs.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_memfile.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_main.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_audio.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_dialog.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_image.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_color.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_acodec.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_font.so" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DrawBarnsleyFern" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++14" />
+					<Add option="-m64" />
+					<Add directory="/usr/include/allegro5" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-m64" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_acodec.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_audio.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_color.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_dialog.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_font.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_image.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_main.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_memfile.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_physfs.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_primitives.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_ttf.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/liballegro_video.so" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="DrawBarnsleyFern.cpp" />
+		<Unit filename="IteratedFunctionSystem.cpp" />
+		<Unit filename="IteratedFunctionSystem.h" />
+		<Unit filename="SimpleScreen.cpp" />
+		<Unit filename="SimpleScreen.h" />
+		<Unit filename="stdafx.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

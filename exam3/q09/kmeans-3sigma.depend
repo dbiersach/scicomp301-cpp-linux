@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1525675701 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/kmeans-3sigma/kmeans-3sigma.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"kMeansClustering.h"
+
+1525675550 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/kmeans-3sigma/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<complex>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+
+1525675212 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/kmeans-3sigma/SimpleScreen.h
+	"stdafx.h"
+
+1525675364 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/kmeans-3sigma/kMeansClustering.h
+	"stdafx.h"
+
+1525675223 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/kmeans-3sigma/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+

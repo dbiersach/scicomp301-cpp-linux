@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="nyquist-known" />
+		<Option pch_mode="2" />
+		<Option compiler="clang" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/nyquist-known" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="clang" />
+				<Compiler>
+					<Add option="-m64" />
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-std=c++14" />
+				</Compiler>
+				<Linker>
+					<Add option="-m64" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/nyquist-known" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="clang" />
+				<Compiler>
+					<Add option="-m64" />
+					<Add option="-O2" />
+					<Add option="-Wall" />
+					<Add option="-std=c++14" />
+				</Compiler>
+				<Linker>
+					<Add option="-m64" />
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-m64" />
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add option="-fexceptions" />
+			<Add directory="/home/scicompuser/root/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-m64" />
+			<Add library="/home/scicompuser/root/lib/libASImage.so" />
+			<Add library="/home/scicompuser/root/lib/libASImageGui.so" />
+			<Add library="/home/scicompuser/root/lib/libAfterImage.a" />
+			<Add library="/home/scicompuser/root/lib/libCling.so" />
+			<Add library="/home/scicompuser/root/lib/libCore.so" />
+			<Add library="/home/scicompuser/root/lib/libEG.so" />
+			<Add library="/home/scicompuser/root/lib/libEve.so" />
+			<Add library="/home/scicompuser/root/lib/libFTGL.so" />
+			<Add library="/home/scicompuser/root/lib/libFitPanel.so" />
+			<Add library="/home/scicompuser/root/lib/libFoam.so" />
+			<Add library="/home/scicompuser/root/lib/libFumili.so" />
+			<Add library="/home/scicompuser/root/lib/libGLEW.so" />
+			<Add library="/home/scicompuser/root/lib/libGX11.so" />
+			<Add library="/home/scicompuser/root/lib/libGX11TTF.so" />
+			<Add library="/home/scicompuser/root/lib/libGdml.so" />
+			<Add library="/home/scicompuser/root/lib/libGed.so" />
+			<Add library="/home/scicompuser/root/lib/libGenVector.so" />
+			<Add library="/home/scicompuser/root/lib/libGenetic.so" />
+			<Add library="/home/scicompuser/root/lib/libGeom.so" />
+			<Add library="/home/scicompuser/root/lib/libGeomBuilder.so" />
+			<Add library="/home/scicompuser/root/lib/libGeomPainter.so" />
+			<Add library="/home/scicompuser/root/lib/libGpad.so" />
+			<Add library="/home/scicompuser/root/lib/libGraf.so" />
+			<Add library="/home/scicompuser/root/lib/libGraf3d.so" />
+			<Add library="/home/scicompuser/root/lib/libGui.so" />
+			<Add library="/home/scicompuser/root/lib/libGuiBld.so" />
+			<Add library="/home/scicompuser/root/lib/libGuiHtml.so" />
+			<Add library="/home/scicompuser/root/lib/libGviz3d.so" />
+			<Add library="/home/scicompuser/root/lib/libHist.so" />
+			<Add library="/home/scicompuser/root/lib/libHistPainter.so" />
+			<Add library="/home/scicompuser/root/lib/libHtml.so" />
+			<Add library="/home/scicompuser/root/lib/libImt.so" />
+			<Add library="/home/scicompuser/root/lib/libJupyROOT.so" />
+			<Add library="/home/scicompuser/root/lib/libMLP.so" />
+			<Add library="/home/scicompuser/root/lib/libMathCore.so" />
+			<Add library="/home/scicompuser/root/lib/libMatrix.so" />
+			<Add library="/home/scicompuser/root/lib/libMinuit.so" />
+			<Add library="/home/scicompuser/root/lib/libMultiProc.so" />
+			<Add library="/home/scicompuser/root/lib/libNet.so" />
+			<Add library="/home/scicompuser/root/lib/libNew.so" />
+			<Add library="/home/scicompuser/root/lib/libPhysics.so" />
+			<Add library="/home/scicompuser/root/lib/libPostscript.so" />
+			<Add library="/home/scicompuser/root/lib/libProof.so" />
+			<Add library="/home/scicompuser/root/lib/libProofBench.so" />
+			<Add library="/home/scicompuser/root/lib/libProofDraw.so" />
+			<Add library="/home/scicompuser/root/lib/libProofPlayer.so" />
+			<Add library="/home/scicompuser/root/lib/libPyROOT.so" />
+			<Add library="/home/scicompuser/root/lib/libQuadp.so" />
+			<Add library="/home/scicompuser/root/lib/libRGL.so" />
+			<Add library="/home/scicompuser/root/lib/libRHTTP.so" />
+			<Add library="/home/scicompuser/root/lib/libRHTTPSniff.so" />
+			<Add library="/home/scicompuser/root/lib/libRIO.so" />
+			<Add library="/home/scicompuser/root/lib/libROOTDataFrame.so" />
+			<Add library="/home/scicompuser/root/lib/libROOTVecOps.so" />
+			<Add library="/home/scicompuser/root/lib/libRecorder.so" />
+			<Add library="/home/scicompuser/root/lib/libRint.so" />
+			<Add library="/home/scicompuser/root/lib/libRooFit.so" />
+			<Add library="/home/scicompuser/root/lib/libRooFitCore.so" />
+			<Add library="/home/scicompuser/root/lib/libRooStats.so" />
+			<Add library="/home/scicompuser/root/lib/libRootAuth.so" />
+			<Add library="/home/scicompuser/root/lib/libSPlot.so" />
+			<Add library="/home/scicompuser/root/lib/libSQLIO.so" />
+			<Add library="/home/scicompuser/root/lib/libSessionViewer.so" />
+			<Add library="/home/scicompuser/root/lib/libSmatrix.so" />
+			<Add library="/home/scicompuser/root/lib/libSpectrum.so" />
+			<Add library="/home/scicompuser/root/lib/libSpectrumPainter.so" />
+			<Add library="/home/scicompuser/root/lib/libSrvAuth.so" />
+			<Add library="/home/scicompuser/root/lib/libTMVA.so" />
+			<Add library="/home/scicompuser/root/lib/libTMVAGui.so" />
+			<Add library="/home/scicompuser/root/lib/libThread.so" />
+			<Add library="/home/scicompuser/root/lib/libTree.so" />
+			<Add library="/home/scicompuser/root/lib/libTreePlayer.so" />
+			<Add library="/home/scicompuser/root/lib/libTreeViewer.so" />
+			<Add library="/home/scicompuser/root/lib/libVMC.so" />
+			<Add library="/home/scicompuser/root/lib/libX3d.so" />
+			<Add library="/home/scicompuser/root/lib/libXMLIO.so" />
+			<Add library="/home/scicompuser/root/lib/libcomplexDict.so" />
+			<Add library="/home/scicompuser/root/lib/libdequeDict.so" />
+			<Add library="/home/scicompuser/root/lib/libforward_listDict.so" />
+			<Add library="/home/scicompuser/root/lib/liblistDict.so" />
+			<Add library="/home/scicompuser/root/lib/liblz4.a" />
+			<Add library="/home/scicompuser/root/lib/liblzma.a" />
+			<Add library="/home/scicompuser/root/lib/libmap2Dict.so" />
+			<Add library="/home/scicompuser/root/lib/libmapDict.so" />
+			<Add library="/home/scicompuser/root/lib/libmathtext.a" />
+			<Add library="/home/scicompuser/root/lib/libmultimap2Dict.so" />
+			<Add library="/home/scicompuser/root/lib/libmultimapDict.so" />
+			<Add library="/home/scicompuser/root/lib/libmultisetDict.so" />
+			<Add library="/home/scicompuser/root/lib/librpdutil.a" />
+			<Add library="/home/scicompuser/root/lib/librsa.a" />
+			<Add library="/home/scicompuser/root/lib/libsetDict.so" />
+			<Add library="/home/scicompuser/root/lib/libtbb.so" />
+			<Add library="/home/scicompuser/root/lib/libtbbmalloc.so" />
+			<Add library="/home/scicompuser/root/lib/libtbbmalloc_proxy.so" />
+			<Add library="/home/scicompuser/root/lib/libunordered_mapDict.so" />
+			<Add library="/home/scicompuser/root/lib/libunordered_multimapDict.so" />
+			<Add library="/home/scicompuser/root/lib/libunordered_multisetDict.so" />
+			<Add library="/home/scicompuser/root/lib/libunordered_setDict.so" />
+			<Add library="/home/scicompuser/root/lib/libvalarrayDict.so" />
+			<Add library="/home/scicompuser/root/lib/libvdt.so" />
+			<Add library="/home/scicompuser/root/lib/libvectorDict.so" />
+			<Add library="/home/scicompuser/root/lib/libxxhash.a" />
+		</Linker>
+		<Unit filename="SinusoidAliasing.cpp" />
+		<Unit filename="stdafx.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1486664396 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab2-fern/DrawBarnsleyFern.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+	"IteratedFunctionSystem.h"
+
+1485756623 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab2-fern/stdafx.h
+	"targetver.h"
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<memory>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<tuple>
+	<utility>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_color.h>
+	<allegro5/color.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1492963301 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab2-fern/SimpleScreen.h
+	"stdafx.h"
+
+1486660127 /home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab2-fern/IteratedFunctionSystem.h
+	"stdafx.h"
+
+1486665870 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab2-fern/IteratedFunctionSystem.cpp
+	"stdafx.h"
+	"IteratedFunctionSystem.h"
+
+1485720929 source:/home/dbiersach/SciComp/repos/scicomp020-cpp-linux/session19/lab2-fern/SimpleScreen.cpp
+	"stdafx.h"
+	"SimpleScreen.h"
+
