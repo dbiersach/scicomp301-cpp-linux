@@ -131,14 +131,6 @@ source $HOME/.local/bin/virtualenvwrapper.sh
 export ROOTSYS=$HOME/root
 export PATH=$ROOTSYS/bin:$PATH
 export PYTHONDIR=$ROOTSYS
-export PYTHONDIR=$ROOTSYS
-export PYTHONPATH=$ROOTSYS/lib:$PYTHONPATH:$ROOTSYS/bindings/pyroot
-export LD_LIBRARY_PATH=$ROOTSYS/lib:$PYTHONDIR/lib:$ROOTSYS/bindings/pyroot:$LD_LIBRARY_PATH
-
-# for CERN ROOT
-export ROOTSYS=$HOME/root
-export PATH=$ROOTSYS/bin:$PATH
-export PYTHONDIR=$ROOTSYS
 export PYTHONPATH=$ROOTSYS/lib:$PYTHONPATH:$ROOTSYS/bindings/pyroot
 export LD_LIBRARY_PATH=$ROOTSYS/lib:$PYTHONDIR/lib:$ROOTSYS/bindings/pyroot:$LD_LIBRARY_PATH
 
